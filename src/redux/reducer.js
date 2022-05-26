@@ -4,6 +4,7 @@ const initialState = [];
 
 const addTodoReducer = createSlice({
   name: "todos",
+  //muskan
   initialState,
   reducers: {
     //here we will write our reducer
